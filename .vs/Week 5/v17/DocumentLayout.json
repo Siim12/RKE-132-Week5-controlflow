@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC2023\\source\\repos\\Week 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69DB69A6-8E18-4D78-9BD1-91E533791753}|Week5LogicalOperaator\\Week5LogicalOperaator.csproj|c:\\users\\pc2023\\source\\repos\\week 5\\week5logicaloperaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB69A6-8E18-4D78-9BD1-91E533791753}|Week5LogicalOperaator\\Week5LogicalOperaator.csproj|solutionrelative:week5logicaloperaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D9D0FD-5D10-4678-82A4-AF427104BC7C}|ORoperaator\\ORoperaator.csproj|c:\\users\\pc2023\\source\\repos\\week 5\\oroperaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D9D0FD-5D10-4678-82A4-AF427104BC7C}|ORoperaator\\ORoperaator.csproj|solutionrelative:oroperaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753867F-03D6-467B-AFAF-46B58B052157}|ANDoperaator\\ANDoperaator.csproj|c:\\users\\pc2023\\source\\repos\\week 5\\andoperaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753867F-03D6-467B-AFAF-46B58B052157}|ANDoperaator\\ANDoperaator.csproj|solutionrelative:andoperaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B05CE5B-F168-4EC5-8E2E-7C4DD8677303}|Week 5\\Week 5.csproj|c:\\users\\pc2023\\source\\repos\\week 5\\week 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B05CE5B-F168-4EC5-8E2E-7C4DD8677303}|Week 5\\Week 5.csproj|solutionrelative:week 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 5\\Week5LogicalOperaator\\Program.cs",
+              "RelativeDocumentMoniker": "Week5LogicalOperaator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 5\\Week5LogicalOperaator\\Program.cs",
+              "RelativeToolTip": "Week5LogicalOperaator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:52:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 5\\ORoperaator\\Program.cs",
+              "RelativeDocumentMoniker": "ORoperaator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 5\\ORoperaator\\Program.cs",
+              "RelativeToolTip": "ORoperaator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:52:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 5\\ANDoperaator\\Program.cs",
+              "RelativeDocumentMoniker": "ANDoperaator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 5\\ANDoperaator\\Program.cs",
+              "RelativeToolTip": "ANDoperaator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:51:40.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 5\\Week 5\\Program.cs",
+              "RelativeDocumentMoniker": "Week 5\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 5\\Week 5\\Program.cs",
+              "RelativeToolTip": "Week 5\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:50:57.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
